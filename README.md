@@ -1,2 +1,2 @@
 # Mobile_Computing_ShowCase
-This repository showcases all the projects and assignments related to Mobile Computing Course.
+This repository hosts a webpage which showcases all the projects and assignments related to Mobile Computing Course.
